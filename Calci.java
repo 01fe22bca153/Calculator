@@ -2,7 +2,7 @@
  * The Calculator class in Java performs basic arithmetic operations such as addition, subtraction,
  * multiplication, and division.
  */
-class Calci{
+class Calculator{
     float addition(float operand_1,float operand_2){
         return(operand_1+operand_2);
 }
